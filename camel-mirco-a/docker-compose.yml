@@ -1,0 +1,11 @@
+services:
+  activemq:
+    image: apache/activemq-classic
+    container_name: activemq-broker
+    environment:
+      ARTEMIS_USER: admin
+      ARTEMIS_PASSWORD: admin
+    ports:
+      - "61615:61616"
+      - "8161:8161"
+    restart: unless-stopped
