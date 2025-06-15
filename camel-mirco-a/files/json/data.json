@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1001,
+    "from": "USD",
+    "to": "EUR",
+    "conversionMultiple": 0.92
+  },
+  {
+    "id": 1002,
+    "from": "EUR",
+    "to": "USD",
+    "conversionMultiple": 1.09
+  },
+  {
+    "id": 1003,
+    "from": "GBP",
+    "to": "USD",
+    "conversionMultiple": 1.27
+  },
+  {
+    "id": 1004,
+    "from": "USD",
+    "to": "GBP",
+    "conversionMultiple": 0.79
+  },
+  {
+    "id": 1005,
+    "from": "AUD",
+    "to": "USD",
+    "conversionMultiple": 0.66
+  },
+  {
+    "id": 1006,
+    "from": "USD",
+    "to": "AUD",
+    "conversionMultiple": 1.51
+  },
+  {
+    "id": 1007,
+    "from": "CAD",
+    "to": "USD",
+    "conversionMultiple": 0.73
+  },
+  {
+    "id": 1008,
+    "from": "USD",
+    "to": "CAD",
+    "conversionMultiple": 1.37
+  },
+  {
+    "id": 1009,
+    "from": "JPY",
+    "to": "USD",
+    "conversionMultiple": 0.0063
+  },
+  {
+    "id": 1010,
+    "from": "USD",
+    "to": "JPY",
+    "conversionMultiple": 158.7
+  },
+  {
+    "id": 1011,
+    "from": "CHF",
+    "to": "USD",
+    "conversionMultiple": 1.13
+  },
+  {
+    "id": 1012,
+    "from": "USD",
+    "to": "CHF",
+    "conversionMultiple": 0.88
+  },
+  {
+    "id": 1013,
+    "from": "CNY",
+    "to": "USD",
+    "conversionMultiple": 0.14
+  },
+  {
+    "id": 1014,
+    "from": "USD",
+    "to": "CNY",
+    "conversionMultiple": 7.25
+  },
+  {
+    "id": 1015,
+    "from": "INR",
+    "to": "USD",
+    "conversionMultiple": 0.012
+  },
+  {
+    "id": 1016,
+    "from": "USD",
+    "to": "INR",
+    "conversionMultiple": 83.3
+  },
+  {
+    "id": 1017,
+    "from": "SGD",
+    "to": "USD",
+    "conversionMultiple": 0.74
+  },
+  {
+    "id": 1018,
+    "from": "USD",
+    "to": "SGD",
+    "conversionMultiple": 1.35
+  },
+  {
+    "id": 1019,
+    "from": "KRW",
+    "to": "USD",
+    "conversionMultiple": 0.00072
+  },
+  {
+    "id": 1020,
+    "from": "USD",
+    "to": "KRW",
+    "conversionMultiple": 1385.0
+  },
+  {
+    "id": 1021,
+    "from": "NZD",
+    "to": "USD",
+    "conversionMultiple": 0.62
+  },
+  {
+    "id": 1022,
+    "from": "USD",
+    "to": "NZD",
+    "conversionMultiple": 1.61
+  },
+  {
+    "id": 1023,
+    "from": "BRL",
+    "to": "USD",
+    "conversionMultiple": 0.19
+  },
+  {
+    "id": 1024,
+    "from": "USD",
+    "to": "BRL",
+    "conversionMultiple": 5.23
+  },
+  {
+    "id": 1025,
+    "from": "ZAR",
+    "to": "USD",
+    "conversionMultiple": 0.055
+  },
+  {
+    "id": 1026,
+    "from": "USD",
+    "to": "ZAR",
+    "conversionMultiple": 18.1
+  },
+  {
+    "id": 1027,
+    "from": "RUB",
+    "to": "USD",
+    "conversionMultiple": 0.011
+  },
+  {
+    "id": 1028,
+    "from": "USD",
+    "to": "RUB",
+    "conversionMultiple": 90.8
+  },
+  {
+    "id": 1029,
+    "from": "MXN",
+    "to": "USD",
+    "conversionMultiple": 0.055
+  },
+  {
+    "id": 1030,
+    "from": "USD",
+    "to": "MXN",
+    "conversionMultiple": 18.2
+  }
+]
