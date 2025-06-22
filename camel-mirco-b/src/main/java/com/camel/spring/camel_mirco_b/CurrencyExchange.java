@@ -49,4 +49,6 @@ public class CurrencyExchange {
     public void setConversionMultiple(BigDecimal conversionMultiple) {
         this.conversionMultiple = conversionMultiple;
     }
+
+
 }
